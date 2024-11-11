@@ -28,11 +28,11 @@ config I2C
 config SSD1306
     default y
 
+
 choice ZMK_DISPLAY_WORK_QUEUE
     default ZMK_DISPLAY_WORK_QUEUE_DEDICATED
 endchoice
 
-endif
 
 endif # ZMK_DISPLAY
 
