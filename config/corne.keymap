@@ -3,7 +3,9 @@
  *
  * SPDX-License-Identifier: MIT
  */
-
+/ {
+    chosen { zmk,matrix_transform = &five_column_transform; };
+};
 #include <behaviors.dtsi>
 #include <dt-bindings/zmk/keys.h>
 #include <dt-bindings/zmk/bt.h>
