@@ -1,4 +1,4 @@
-layout: {zmk_keyboard: corne, layout_name: five_column_transform}
+layout: {zmk_keyboard: corne}
 layers:
   BASE:
   - {t: Q, h: Sft+Q}
