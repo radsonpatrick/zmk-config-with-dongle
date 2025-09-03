@@ -16,7 +16,7 @@
 #define ZMK_MOUSE_DEFAULT_MOVE_VAL 1500  // 600
 #define ZMK_MOUSE_DEFAULT_SCRL_VAL 10    // 10
 
-{
+/{
     behaviors {
         /*
     * td_lock groups locking functions into one key:
